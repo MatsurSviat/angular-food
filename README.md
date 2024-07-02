@@ -1,1 +1,1 @@
-# angular-food
+Food page for practice
